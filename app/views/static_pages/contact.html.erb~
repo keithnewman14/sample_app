@@ -1,0 +1,3 @@
+<%provide(:title, 'Contact')%>
+<h1>Contact</h1>
+<p>Please contact us! We're ever so desparate for friends! RAWRRRRRRRRRR</p>
